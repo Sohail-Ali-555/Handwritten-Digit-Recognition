@@ -7,7 +7,7 @@ To install the modules, download the [**requirements.txt**](https://github.com/S
 Note: Modules like NumPy, Scikit-Learn, Matplotlib, Pillow are chosen for their latest versions as of this commit date, since latest versions will generally offer max. possible performance speed.
 
 ## Pre-trained Models.pkl file
-A [**models.pkl**](https://github.com/Sohail-Ali-555/Handwritten-Digit-Recognition/blob/main/models.pkl) file is present in the reposiroty which has been obtained on running the [**training.py**](https://github.com/Sohail-Ali-555/Handwritten-Digit-Recognition/blob/main/training.py) program file. You can also obtain it by running the same program file or using this one.
+A [**models.pkl**](https://github.com/Sohail-Ali-555/Handwritten-Digit-Recognition/blob/main/models.pkl) file is present in the repository which has been obtained on running the [**training.py**](https://github.com/Sohail-Ali-555/Handwritten-Digit-Recognition/blob/main/training.py) program file. You can also obtain it by running the same program file or using this one.
 
 ## MNIST dataset
 Due to ease of programming we have used the MNIST dataset provided within the **Sckit-Learn** module itself. But you can download and use the MNIST dataset from [official sources](https://www.kaggle.com/datasets/hojjatk/mnist-dataset) too. 

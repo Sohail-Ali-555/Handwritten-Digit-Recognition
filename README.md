@@ -13,7 +13,7 @@ A [**models.pkl**](https://github.com/Sohail-Ali-555/Handwritten-Digit-Recogniti
 Due to ease of programming we have used the MNIST dataset provided within the **Sckit-Learn** module itself. But you can download and use the MNIST dataset from [official sources](https://www.kaggle.com/datasets/hojjatk/mnist-dataset) too. 
 
 ## Running the program
-Their are two python files namely, [**training.py**](https://github.com/Sohail-Ali-555/Handwritten-Digit-Recognition/blob/main/training.py) & [**testing.py**](https://github.com/Sohail-Ali-555/Handwritten-Digit-Recognition/blob/main/testing.py).
+Their are two python files namely, [**training.py**](https://github.com/Sohail-Ali-555/Handwritten-Digit-Recognition/blob/main/training.py) & [**testing.py**](https://github.com/Sohail-Ali-555/Handwritten-Digit-Recognition/blob/main/testing.py). The program files can be run either through command line with the command: **python .\file.py** or through any IDE like VS Code or PyCharm. 
 
 ### Training Session
 Training file will take considerably more time to be executed completely and will generate a **models.pkl**. This basically comprises the learning session of our ML model, where we are producing 10 binary classifiers, each capable of detecting only one out of 10 digits (0-9), giving result in boolean form. The ten models have been packed together as one **models.pkl** binary-readable only object file.

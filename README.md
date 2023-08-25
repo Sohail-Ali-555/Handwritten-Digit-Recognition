@@ -23,4 +23,5 @@ Testing file will be executed much faster, which involves first unpacking **mode
 ## Program Screenshots
 <img src="https://github.com/Sohail-Ali-555/Handwritten-Digit-Recognition/assets/103688890/e2fdce66-5b22-4f83-ab6a-320f28dd15d5" width="600">
 <br>
-Program (testing.py) output will be displayed in this GUI format. Clicking on <b>Exit</b> will exit the program while clicking on top-right corner close button will re-launch the GUI but with a different test digit.
+
+Program (testing.py) output will be displayed in this GUI format. Clicking on **Exit** will exit the program while clicking on top-right corner close button will re-launch the GUI but with a different test digit.

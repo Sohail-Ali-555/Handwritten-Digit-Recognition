@@ -21,6 +21,6 @@ Training file will take considerably more time to be executed completely and wil
 Testing file will be executed much faster, which involves first unpacking **models.pkl** file into a python list of binary classifiers and pitting them against a randomly selected digit from the **MNIST** dataset for prediction. 
 
 ## Program Screenshots
-<img src="https://github.com/Sohail-Ali-555/Handwritten-Digit-Recognition/assets/103688890/e2fdce66-5b22-4f83-ab6a-320f28dd15d5" width="700">
+<img src="https://github.com/Sohail-Ali-555/Handwritten-Digit-Recognition/assets/103688890/e2fdce66-5b22-4f83-ab6a-320f28dd15d5" width="600">
 <br>
-Program (testing.py) output will be displayed in this GUI format. Clicking on **Exit** will exit the program while clicking on top-right corner close button will re-launch the GUI but with a different test digit.
+Program (testing.py) output will be displayed in this GUI format. Clicking on <b>Exit</b> will exit the program while clicking on top-right corner close button will re-launch the GUI but with a different test digit.

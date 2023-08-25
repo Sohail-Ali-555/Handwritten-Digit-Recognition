@@ -19,3 +19,8 @@ Their are two python files namely, [**training.py**](https://github.com/Sohail-A
 Training file will take considerably more time to be executed completely and will generate a **models.pkl**. This basically comprises the learning session of our ML model, where we are producing 10 binary classifiers, each capable of detecting only one out of 10 digits (0-9), giving result in boolean form. The ten models have been packed together as one **models.pkl** binary-readable only object file.
 ### Testing Session
 Testing file will be executed much faster, which involves first unpacking **models.pkl** file into a python list of binary classifiers and pitting them against a randomly selected digit from the **MNIST** dataset for prediction. 
+
+## Program Screenshots
+<img src="https://github.com/Sohail-Ali-555/Handwritten-Digit-Recognition/assets/103688890/e2fdce66-5b22-4f83-ab6a-320f28dd15d5" width="700">
+<br>
+Program (testing.py) output will be displayed in this GUI format. Clicking on **Exit** will exit the program while clicking on top-right corner close button will re-launch the GUI but with a different test digit.
